@@ -8,6 +8,7 @@ my environment for learning Golang.  Table of Contents:
 To DO: 
 
 - Introduce a SSL to enable HTTPS communication
-- Build out the complexity of gowiki as to encompass more features 
+- Build out the complexity of gowiki as to encompass more features in its UX
+- Work AngularJS UI components into gowiki front-end
 - Develop a RESTful JSON API for the matured version of gowiki
 
