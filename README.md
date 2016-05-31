@@ -9,6 +9,6 @@ To DO:
 
 - Introduce a SSL to enable HTTPS communication
 - Iterate new features for a more robust UX in GoWiki v2.0 
-- Work AngularJS UI components into gowiki front-end
+- Work AngularJS UI components into GoWiki front-end
 - Develop a RESTful JSON API for the matured version of gowiki
 
