@@ -9,3 +9,5 @@ To DO:
 
 - Introduce a SSL to enable HTTPS communication
 - Build out the complexity of gowiki as to encompass more features 
+- Develop a RESTful JSON API for the matured version of gowiki
+
