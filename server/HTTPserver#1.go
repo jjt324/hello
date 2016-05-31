@@ -1,3 +1,8 @@
+// cd path/to/HTTPserver#1.go
+// go build HTTPserver#1.go
+// go run HTTPserver#1.go
+// open http://localhost:8080 in your browser
+
 package main
 
 import (
