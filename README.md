@@ -8,7 +8,7 @@ my environment for learning Golang.  Table of Contents:
 To DO:
 
 - Introduce a SSL to enable HTTPS communication
-- Deisgn, develop, and document an oAuth2 service for client      authentication
+- Add an oAuth2 service for client authentication
 
 - Iterate GoWiki v2.0, adding new features as to provide a more robust UX
 - Work AngularJS UI components into GoWiki front-end
